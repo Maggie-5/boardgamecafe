@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 05 19:09:01 WET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0186-22fb-53e7-000003ad3fe8 
+on database directory /home/aluno-di/Documentos/css/jdbc_and_transcription/mavenproject/data/derby/boardgamecafedb with class loader org.codehaus.mojo.exec.URLClassLoaderBuilder$ExecJavaClassLoader@18245e6f 
+Loaded from file:/home/aluno-di/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=/home/aluno-di/Documentos/css/jdbc_and_transcription/mavenproject
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-58-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
